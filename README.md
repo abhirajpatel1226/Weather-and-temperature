@@ -1,2 +1,2 @@
 # Weather-and-temperature
-enter city name like london it show temperature
+This project is a simple Weather App built using HTML, CSS, and JavaScript. It allows users to check real-time weather information by entering a city name (like london) . The app connects to the WeatherAPI service to fetch live weather data such as temperature, condition, humidity, and wind speed. The front-end is designed using HTML for structure and CSS for styling, giving it a clean, modern interface with a gradient background and responsive layout. The JavaScript part handles API integration, user input validation, and dynamically displays weather details, including icons and temperature.
